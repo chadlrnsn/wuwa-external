@@ -1,0 +1,6 @@
+[submodule "wwlib/vendor/json"]
+	path = wwlib/vendor/json
+	url = https://github.com/nlohmann/json.git
+[submodule "wwlib/vendor/simpleini"]
+	path = wwlib/vendor/simpleini
+	url = https://github.com/brofield/simpleini.git
